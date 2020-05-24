@@ -1,0 +1,1 @@
+export const iconHeaderArrowBack = require("./iconHeaderArrowBack.png");
