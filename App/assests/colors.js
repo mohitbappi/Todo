@@ -1,0 +1,12 @@
+export const darkGreen = '#2B7A78';
+export const green = '#3AAFA9';
+export const silver = '#DEF2F1';
+export const lightBlack = '#17252A';
+export const transparent = 'transparent';
+export const black = '#000000';
+export const white = '#FEFFFF';
+export const headerColor = 'rgb(245,245,245)';
+export const headerShadowColor = 'rgba(196,198,201,0.1)';
+export const headerTextColor = 'rgba(0,0,0,0.87)';
+export const silverGrey = 'rgba(0,0,0,0.38)';
+export const gradientGreen = 'rgba(58,175,169,0.2)'
